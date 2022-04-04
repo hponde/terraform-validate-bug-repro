@@ -39,3 +39,10 @@ Success! The configuration is valid.
 
 >
 ```
+
+## logs
+
+With `TF_LOG=trace`:
+
+- [terraform validate](https://gist.github.com/hponde/fd0961e545e7e3ece86deaa23a9898bd)
+- [terraform console](https://gist.github.com/hponde/c0a6e667768ffe2bfc4e0398fc214360)
